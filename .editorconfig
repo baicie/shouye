@@ -1,0 +1,12 @@
+root = true
+
+[*.{js,jsx,ts,tsx,css,less}]
+# 缩进用2个空格
+indent_style = space
+indent_size = 2
+# 去除末尾空格
+trim_trailing_whitespace = true
+# 换行符：LF
+end_of_line = lf
+# 末尾新行
+insert_final_newline = true
