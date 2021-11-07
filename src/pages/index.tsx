@@ -23,7 +23,7 @@ const { Header, Content, Footer, Sider } = Layout;
 
 const content = (
   <Descriptions size="small" column={2}>
-    <Descriptions.Item label="创建人">李四</Descriptions.Item>
+    <Descriptions.Item label="创建人">王五</Descriptions.Item>
     <Descriptions.Item label="联系方式">
       <a>421421</a>
     </Descriptions.Item>
